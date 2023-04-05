@@ -2,7 +2,7 @@
 
 <h1 align="center">🌲🌳🎋 Hi, I'm 1treetreetree (aka oganesso)</h1>
 <h3 align="center">projects | analyses | whatever else</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif"/>
+<img align="right" alt="mylatestproject" width="400" src="https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1treetreetree&label=Profile%20views&color=0e75b6&style=flat" alt="1treetreetree" /> </p>
 
@@ -16,8 +16,6 @@
 
 - 💬 Ask me about **data visualization, probability, or neural networks**
 
-- 📫 How to reach me .. **oganesso11@gmail.com**
-
 <h3 align="left">languages i'm familiar with:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -26,7 +24,6 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
-
 <h3 align="left">python librairies i'm familiar with:</h3>
 <p align="left">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -39,8 +36,6 @@
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=1treetreetree&show_icons=true&locale=en" alt="1treetreetree" /></p>
-
 <h5 align="left">(my twitter:)</h5>
 <p align="left">
 <a href="https://twitter.com/oganessso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oganessso" height="24" width="32" /></a>
