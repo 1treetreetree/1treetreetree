@@ -1,6 +1,6 @@
 <!-- [![putsomethingherelol](https://idk.idk.gif)]() -->
 
-<h1 align="center">🌲🌳🎋 Hi, I'm 1treetreetree (aka oganesso)</h1>
+<h1 align="center">🌲🌳🎋 Hi, I'm 1treetreetree aka oganesso</h1>
 <h3 align="center">projects | analyses | whatever else</h3>
 <a href="https://1treetreetree.github.io/lol-pointerpointer/"> <img align="right" alt="my latest project" width="400" src="https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif"/> </a>
 
