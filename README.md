@@ -43,5 +43,5 @@
 
 <h5 align="left">(my twitter:)</h5>
 <p align="left">
-<a href="https://twitter.com/oganessso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oganessso" height="30" width="40" /></a>
+<a href="https://twitter.com/oganessso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oganessso" height="24" width="32" /></a>
 </p>
