@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on studying data science and machine learning algorithms
 
-- 👨‍💻 All of my public projects are available at [oganesso.github.io](https://oganesso.github.io/)
+- ⚗️ All of my public projects are available at [oganesso.github.io](https://oganesso.github.io/)
 
-- 👯 I accept inquiries
+- 🫂 I accept inquiries
 
 - 💬 I'm working on specializing myself in **data analysis, probability, and ML**
 
-- 🌱 Unrelated, but I’m also currently learning **javascript**
+- ♨️ Unrelated, but I’m also currently learning **javascript**
 
 <h3 align="left">languages i'm familiar with:</h3>
 <p align="left">
