@@ -40,7 +40,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oganesso&show_icons=true&locale=en" alt="oganesso" /></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=oganesso&show_icons=true&locale=en" alt="oganesso" /></a></p>
 
 <h5 align="left">(my twitter:)</h5>
 <p align="left">
