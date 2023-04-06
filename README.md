@@ -1,7 +1,7 @@
 <!-- [![putsomethingherelol](https://idk.idk.gif)]() -->
 
 <h1 align="center">🌲🌳🎋 Hi, I'm 1treetreetree aka oganesso</h1>
-<h3 align="center">projects | analyses | whatever else</h3>
+<h3 align="center">data analysis, data vis, probability, and ML</h3>
 <a href="https://1treetreetree.github.io/lol-pointerpointer/"> <img align="right" alt="my latest project" width="400" src="https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif"/> </a>
 
 <p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=1treetreetree&label=Profile%20views&color=0e75b6&style=flat" alt="1treetreetree" /> </a> </p> 
@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my public projects are available at [1treetreetree.github.io](https://1treetreetree.github.io/)
 
-- 🌱 I’m also currently learning **javascript**
+- 👯 I accept inquiries
 
-- 👯 I’m willing to collaborate on **anything!**
+- 💬 I'm working on specializing myself in **data analysis, probability, and ML**
 
-- 💬 Ask me about **data visualization, probability, or neural networks**
+- 🌱 Unrelated, but I’m also currently learning **javascript**
 
 <h3 align="left">languages i'm familiar with:</h3>
 <p align="left">
