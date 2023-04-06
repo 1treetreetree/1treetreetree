@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on studying data science and machine learning algorithms
 
-- 👨‍💻 All of my public projects are available at [1treetreetree.github.io](https://1treetreetree.github.io/)
+- 👨‍💻 All of my public projects are available at [oganesso.github.io](https://oganesso.github.io/)
 
 - 👯 I accept inquiries
 
