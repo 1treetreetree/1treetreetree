@@ -2,9 +2,10 @@
 
 <h1 align="center">🌲🌳🎋 Hi, I'm 1treetreetree aka oganesso</h1>
 <h3 align="center">data analysis, data vis, probability, and ML</h3>
-<a href="https://1treetreetree.github.io/lol-pointerpointer/"> <img align="right" alt="my latest project" width="400" src="https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif"/> </a>
+<a href="https://oganesso.github.io/lol-pointerpointer/"> <img align="right" alt="my latest project" width="400" src="https://media0.giphy.com/media/1tfuKjuoFIhYRHB877/giphy.gif"/> </a>
 
-<p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=1treetreetree&label=Profile%20views&color=0e75b6&style=flat" alt="1treetreetree" /> </a> </p> 
+<p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=oganesso&label=Profile%20views&color=0e75b6&style=flat" alt="oganesso" /> </a> </p>
+
 
 - 🔭 I’m currently working on studying data science and machine learning algorithms
 
